@@ -31,7 +31,7 @@ namespace Buoi01_A2
             Console.WriteLine("xem phim, mua sắm");
 
             //Phần cuối thẻ
-            Console.WriteLine("=================================");
+            Console.WriteLine("==================================");
         }
     }
 }
